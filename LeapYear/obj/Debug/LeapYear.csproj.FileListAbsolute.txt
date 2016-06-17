@@ -3,3 +3,9 @@ c:\users\student\documents\visual studio 2015\Projects\LeapYear\bin\Debug\LeapYe
 c:\users\student\documents\visual studio 2015\Projects\LeapYear\bin\Debug\LeapYear.pdb
 c:\users\student\documents\visual studio 2015\Projects\LeapYear\obj\Debug\LeapYear.exe
 c:\users\student\documents\visual studio 2015\Projects\LeapYear\obj\Debug\LeapYear.pdb
+C:\Users\Student\Documents\GitHub\Leap-Year\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Users\Student\Documents\GitHub\Leap-Year\LeapYear\obj\Debug\LeapYear.exe
+C:\Users\Student\Documents\GitHub\Leap-Year\LeapYear\obj\Debug\LeapYear.pdb
+C:\Users\Student\Documents\GitHub\Leap-Year\LeapYear\bin\Debug\LeapYear.exe
+C:\Users\Student\Documents\GitHub\Leap-Year\LeapYear\bin\Debug\LeapYear.pdb
+C:\Users\Student\Documents\GitHub\Leap-Year\LeapYear\obj\Debug\LeapYear.csprojResolveAssemblyReference.cache
